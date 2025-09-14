@@ -29,7 +29,7 @@ secHead is a compact command‑line utility that inspects HTTP(S) responses for 
 ## Installation
 
 ```bash
-git clone https://github.com/okBoss/secHead.git
+git clone https://github.com/BipinSaud/secHead.git
 cd secHead
 python3 -m venv venv        # recommended
 source venv/bin/activate    # on Windows: venv\Scripts\activate
